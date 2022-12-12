@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: 'test git actuins'
-        run: pwd 
+          run: pwd 
 
         - name: 'test printing'
-        run: echo Maryam
+          run: echo Maryam
 
         - name: 'print all contents'
-        run: ls
+          run: ls
